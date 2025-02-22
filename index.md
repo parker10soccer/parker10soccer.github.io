@@ -13,4 +13,4 @@ You can include:
 - Portfolio items
 - Contact information
 
-[Link to another page](./another-page.html)
+[Link to another page](./index.html)
